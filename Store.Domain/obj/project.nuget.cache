@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5KVZWqntad4HM+tvCLX9CgED5El0XewauQdwd4KambFoPa1AItjg5a7nKGuhXE0lbbegwCwyFHOX8BS7wKf6w==",
+  "success": true,
+  "projectFilePath": "/home/rulees/projects/dotnet/StoreForTests/Store.Domain/Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/rulees/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/rulees/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
