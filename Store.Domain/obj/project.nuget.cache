@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5KVZWqntad4HM+tvCLX9CgED5El0XewauQdwd4KambFoPa1AItjg5a7nKGuhXE0lbbegwCwyFHOX8BS7wKf6w==",
+  "dgSpecHash": "aj2mYgwFdkJ+IerLU6O6mjg++o0f8cRoDMcK5Twgq/bjrH12aULMb7i4LVrHZIP78f0f+dPIpXQg8USyjKIxDA==",
   "success": true,
   "projectFilePath": "/home/rulees/projects/dotnet/StoreForTests/Store.Domain/Store.Domain.csproj",
   "expectedPackageFiles": [
+    "/home/rulees/.nuget/packages/flunt/1.0.3/flunt.1.0.3.nupkg.sha512",
     "/home/rulees/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/rulees/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
