@@ -1,0 +1,9 @@
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/bin/Debug/netstandard2.0/Store.Domain.deps.json
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/bin/Debug/netstandard2.0/Store.Domain.dll
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/bin/Debug/netstandard2.0/Store.Domain.pdb
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/obj/Debug/netstandard2.0/Store.Domain.csprojAssemblyReference.cache
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/obj/Debug/netstandard2.0/Store.Domain.AssemblyInfoInputs.cache
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/obj/Debug/netstandard2.0/Store.Domain.AssemblyInfo.cs
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/obj/Debug/netstandard2.0/Store.Domain.csproj.CoreCompileInputs.cache
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/obj/Debug/netstandard2.0/Store.Domain.dll
+/home/rulees/projects/dotnet/StoreForTests/Store.Domain/obj/Debug/netstandard2.0/Store.Domain.pdb
